@@ -37,6 +37,7 @@
      DB_USER=your_db_user
      DB_PASS=your_db_password
      DB_NAME=school_db
+     PORT=port_no
      ```
 
 4. **Create the MySQL table**

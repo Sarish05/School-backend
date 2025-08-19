@@ -18,5 +18,5 @@ sampleSchools.forEach((school) => {
   });
 });
 
-// Close connection after all inserts
+
 setTimeout(() => db.end(), 1000);
