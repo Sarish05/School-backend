@@ -21,7 +21,7 @@
 
 1. **Clone the repo**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Sarish05/School-backend
    cd School_backend
    ```
 
@@ -34,10 +34,10 @@
    - Copy `.env.example` to `.env` and fill in your DB credentials:
      ```env
      DB_HOST=localhost
-     DB_USER=your_db_user
-     DB_PASS=your_db_password
+     DB_USER=db_user
+     DB_PASS=db_password
      DB_NAME=school_db
-     PORT=port_no
+     PORT=port
      ```
 
 4. **Create the MySQL table**
