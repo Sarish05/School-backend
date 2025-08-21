@@ -116,7 +116,6 @@ School_backend/
 ├── .env
 ├── .gitignore
 ├── package.json
-├── render.yaml
 └── README.md
 ```
 
